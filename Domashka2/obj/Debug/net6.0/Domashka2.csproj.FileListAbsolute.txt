@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\Domashka\Domashka2\bin\Debug\net6.0\Domashka2.exe
+C:\Users\DELL\Desktop\Domashka\Domashka2\bin\Debug\net6.0\Domashka2.deps.json
+C:\Users\DELL\Desktop\Domashka\Domashka2\bin\Debug\net6.0\Domashka2.runtimeconfig.json
+C:\Users\DELL\Desktop\Domashka\Domashka2\bin\Debug\net6.0\Domashka2.dll
+C:\Users\DELL\Desktop\Domashka\Domashka2\bin\Debug\net6.0\Domashka2.pdb
+C:\Users\DELL\Desktop\Domashka\Domashka2\obj\Debug\net6.0\Domashka2.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Domashka\Domashka2\obj\Debug\net6.0\Domashka2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Domashka\Domashka2\obj\Debug\net6.0\Domashka2.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Domashka\Domashka2\obj\Debug\net6.0\Domashka2.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Domashka\Domashka2\obj\Debug\net6.0\Domashka2.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Domashka\Domashka2\obj\Debug\net6.0\Domashka2.dll
+C:\Users\DELL\Desktop\Domashka\Domashka2\obj\Debug\net6.0\refint\Domashka2.dll
+C:\Users\DELL\Desktop\Domashka\Domashka2\obj\Debug\net6.0\Domashka2.pdb
+C:\Users\DELL\Desktop\Domashka\Domashka2\obj\Debug\net6.0\Domashka2.genruntimeconfig.cache
+C:\Users\DELL\Desktop\Domashka\Domashka2\obj\Debug\net6.0\ref\Domashka2.dll
